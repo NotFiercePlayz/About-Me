@@ -169,7 +169,7 @@ body{
     opacity: 0.8;
 }
 
-@media screen and (min-width: 992px){
+@media screen and (min-width: 700px){
     .about-wrapper{
         display: grid;
         grid-template-columns: repeat(2, 2fr);
@@ -183,7 +183,7 @@ body{
         width:80%
     
     }
-}
+
 .credit{
     text-align: center;
     color: #fff;
